@@ -1,4 +1,4 @@
-# 🤖 ResQlympics Rescue Robot
+# 🤖 ResQlympics Rescue Robot (ROBORASHTRA)
 
 ## 🏆 Achievement
 Winner of ResQlympics Robotics Competition
