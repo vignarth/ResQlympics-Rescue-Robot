@@ -12,8 +12,6 @@ This robot was designed for the **ResQlympics challenge**, where the objective w
 - Transport and store them inside a container
 - Operate the robot remotely using FPV camera feed (operator cannot directly see the robot)
 
-The robot uses servo-based gripping mechanism for block handling and wireless FPV monitoring for navigation and task execution.
-
 ---
 
 ## 🎯 Problem Statement
